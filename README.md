@@ -1,8 +1,7 @@
 # gdg-logo-animated
 We try to create an animated version of the 2013 GDG t-shirt logo.
 
-[!GDG Logo](/../master/design/gdg_5_elements.png?raw=true)
-
+<img src="design/gdg_5_elements.png" />
 
 With this we can create cool stuff:
 
