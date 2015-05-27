@@ -1,5 +1,9 @@
 # gdg-logo-animated
-We try to create an animated version of the 2013 GDG t-shirt logo. Then we can create various stuff:
+We try to create an animated version of the 2013 GDG t-shirt logo.
+
+[!GDG Logo](https://raw.githubusercontent.com/mreichelt/gdg-logo-animated/master/design/gdg_5_elements.png)
+
+With this we can create cool stuff:
 
 - A live wallpaper for Android
 - A watchface for Android Wear
